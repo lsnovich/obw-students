@@ -17,4 +17,5 @@
 **Bold** and _Italic_ and `Code` text
 
 [Laura Novich](docs/laura-NovichCV.md)  
-[Jason Novich](second-folder/jasonCV.md)
+[Jason Novich](second-folder/jasonCV.md)  
+[Read Me](docs/docs2/readme.md#readme)
