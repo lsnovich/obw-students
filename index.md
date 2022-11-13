@@ -17,3 +17,4 @@
 **Bold** and _Italic_ and `Code` text
 
 [Laura Novich](docs/laura-NovichCV.md)
+[Jason Novich](second-folder/jasonCV.md)
